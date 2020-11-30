@@ -14,6 +14,8 @@ namespace DataStructures
             Length = 0;
         }
          
+
+
         public ArrayList(int value)
         {
             _array = new int[5];
